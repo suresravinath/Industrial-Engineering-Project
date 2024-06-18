@@ -33,23 +33,21 @@ The aim of this project is to analyze and identify opportunities to improve the 
 
 2. **Develop a New Layout Plan:**
    - Design and implement a new layout plan to improve workflow efficiency and reduce shifting time.
+  
+   - ![image](https://github.com/suresravinath/Industrial-Engineering-Project/assets/118838341/33b29d8e-312a-4c26-9819-fe4ab953d814)
+
 
 3. **Upgrade Lighting Fixtures:**
    - Audit and upgrade lighting fixtures to meet IESNA standards, improving work quality and comfort.
 
 4. **Implement Performance Tracking:**
    - Establish systems to monitor and improve individual worker productivity.
+   - ![image](https://github.com/suresravinath/Industrial-Engineering-Project/assets/118838341/7a48bd87-8558-4325-99ef-d53a1809dca0)
+
 
 5. **Optimize Scheduling:**
    - Use plant simulation techniques to optimize scheduling and maximize the utilization of the CNC machine.
 
 By addressing these issues and achieving these objectives, the project aims to significantly enhance the productivity and efficiency of Thavam Motors, reducing material wastage, improving workflow, and ensuring higher quality output.
 
-## Installation
 
-To replicate or extend the project analysis, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/thavam-motors-efficiency.git
-   cd thavam-motors-efficiency
